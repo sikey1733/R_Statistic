@@ -5,6 +5,7 @@
       <th style="text-align: left; background-color: #e6f7ff;">Краткое описание</th>
       <th style="text-align: right; background-color: #ffe6e6;">Методы</th>
       <th style="text-align: right; background-color: #ffe6e6;">Ссылка на проект</th>
+      <th style="text-align: right; background-color: #ffe6e6;">Платформы и языки программирования</th>
     </tr>
   </thead>
   <tbody>
@@ -13,36 +14,35 @@
       <td style="text-align: left;">Проведен статистический анализ данных для выявления различий в продолжительности сна между мужчинами и женщинами. Использованы методы описательной статистики и тесты для проверки гипотез.</td>
       <td style="text-align: right;">Описательная статистика, Тест Шапиро-Уилка, Тест Манна-Уитни</td>
       <td style="text-align: right;"><a href="https://github.com/SikeY-stack/R/tree/main/sleep_analysis_project">Перейти</a></td>
+      <td style="text-align: right;">Power BI, R</td>
     </tr>
     <tr>
-      <td style="text-align: center;"></td>
-      <td style="text-align: left;"></td>
-      <td style="text-align: right;"></td>
-      <td style="text-align: right;"></td>
+      <td style="text-align: center;">Проект 2</td>
+      <td style="text-align: left;">Описание проекта 2</td>
+      <td style="text-align: right;">Методы проекта 2</td>
+      <td style="text-align: right;"><a href="#">Ссылка на проект 2</a></td>
+      <td style="text-align: right;">Платформы и языки проекта 2</td>
     </tr>
     <tr>
-      <td style="text-align: center;"></td>
-      <td style="text-align: left;"></td>
-      <td style="text-align: right;"></td>
-      <td style="text-align: right;"></td>
+      <td style="text-align: center;">Проект 3</td>
+      <td style="text-align: left;">Описание проекта 3</td>
+      <td style="text-align: right;">Методы проекта 3</td>
+      <td style="text-align: right;"><a href="#">Ссылка на проект 3</a></td>
+      <td style="text-align: right;">Платформы и языки проекта 3</td>
     </tr>
     <tr>
-      <td style="text-align: center;"></td>
-      <td style="text-align: left;"></td>
-      <td style="text-align: right;"></td>
-      <td style="text-align: right;"></td>
+      <td style="text-align: center;">Проект 4</td>
+      <td style="text-align: left;">Описание проекта 4</td>
+      <td style="text-align: right;">Методы проекта 4</td>
+      <td style="text-align: right;"><a href="#">Ссылка на проект 4</a></td>
+      <td style="text-align: right;">Платформы и языки проекта 4</td>
     </tr>
     <tr>
-      <td style="text-align: center;"></td>
-      <td style="text-align: left;"></td>
-      <td style="text-align: right;"></td>
-      <td style="text-align: right;"></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;"></td>
-      <td style="text-align: left;"></td>
-      <td style="text-align: right;"></td>
-      <td style="text-align: right;"></td>
+      <td style="text-align: center;">Проект 5</td>
+      <td style="text-align: left;">Описание проекта 5</td>
+      <td style="text-align: right;">Методы проекта 5</td>
+      <td style="text-align: right;"><a href="#">Ссылка на проект 5</a></td>
+      <td style="text-align: right;">Платформы и языки проекта 5</td>
     </tr>
   </tbody>
 </table>
