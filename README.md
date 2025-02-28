@@ -17,11 +17,11 @@
       <td style="text-align: right;">Power BI, R</td>
     </tr>
     <tr>
-      <td style="text-align: center;">Проект 2</td>
-      <td style="text-align: left;">Описание проекта 2</td>
-      <td style="text-align: right;">Методы проекта 2</td>
-      <td style="text-align: right;"><a href="#">Ссылка на проект 2</a></td>
-      <td style="text-align: right;">Платформы и языки проекта 2</td>
+      <td style="text-align: center;">Растения и почва</td>
+      <td style="text-align: left;">Проведен статистический анализ данных для выявления различий между разновидностями сельскохозяйственных культур и содержанием необходимых для роста элементов в почве.</td>
+      <td style="text-align: right;">Описательная статистика, Тест Шапиро-Уилка, Тесты Крускала-Уоллиса, Тест Манна-Уитни</td>
+      <td style="text-align: right;"><a href="https://github.com/SikeY-stack/R/tree/main/Crop%20and%20Soil">Перейти</a></td>
+      <td style="text-align: right;">Power BI, R</td>
     </tr>
     <tr>
       <td style="text-align: center;">Проект 3</td>
