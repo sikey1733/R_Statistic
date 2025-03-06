@@ -24,11 +24,11 @@
       <td style="text-align: right;">Power BI, R</td>
     </tr>
     <tr>
-      <td style="text-align: center;">Проект 3</td>
-      <td style="text-align: left;">Описание проекта 3</td>
-      <td style="text-align: right;">Методы проекта 3</td>
-      <td style="text-align: right;"><a href="#">Ссылка на проект 3</a></td>
-      <td style="text-align: right;">Платформы и языки проекта 3</td>
+      <td style="text-align: center;">Предсказание стадии ожирения</td>
+      <td style="text-align: left;">Проведен статистический анализ данных для выявления различий в привычках между полом, а так же регрессионный анализ для выявления переменных влияющие в значительной степени на стадии ожирения</td>
+      <td style="text-align: right;">Описательная статистика, Тест Шапиро-Уилка, Тест Манна-Уитни, Регрессионный анализ</td>
+      <td style="text-align: right;"><a href="https://github.com/SikeY-stack/R/tree/main/predicting%20obesity">Перейти</a></td>
+      <td style="text-align: right;">Power BI, R, Power Point</td>
     </tr>
     <tr>
       <td style="text-align: center;">Проект 4</td>
