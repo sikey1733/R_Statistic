@@ -58,6 +58,6 @@
 
 ## Используемые технологии
 - Язык программирования: R
-- Библиотеки: `tidyverse`, `readr`, `knitr`, `car`, `ggplot2`
+- Библиотеки: `tidyverse`, `readr`, `knitr`, `car`
 
 ---
