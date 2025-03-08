@@ -28,7 +28,7 @@
       <td style="text-align: left;">Проведен статистический анализ данных для выявления различий в привычках между полом, а так же регрессионный анализ для выявления переменных влияющие в значительной степени на стадии ожирения</td>
       <td style="text-align: right;">Описательная статистика, Тест Шапиро-Уилка, Тест Манна-Уитни, Регрессионный анализ</td>
       <td style="text-align: right;"><a href="https://github.com/SikeY-stack/R/tree/main/predicting%20obesity">Перейти</a></td>
-      <td style="text-align: right;">Power BI, R, Power Point</td>
+      <td style="text-align: right;">Power BI, R</td>
     </tr>
     <tr>
       <td style="text-align: center;">Проект 4</td>
