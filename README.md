@@ -30,19 +30,5 @@
       <td style="text-align: right;"><a href="https://github.com/SikeY-stack/R/tree/main/predicting%20obesity">Перейти</a></td>
       <td style="text-align: right;">Power BI, R</td>
     </tr>
-    <tr>
-      <td style="text-align: center;">Проект 4</td>
-      <td style="text-align: left;">Описание проекта 4</td>
-      <td style="text-align: right;">Методы проекта 4</td>
-      <td style="text-align: right;"><a href="#">Ссылка на проект 4</a></td>
-      <td style="text-align: right;">Платформы и языки проекта 4</td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Проект 5</td>
-      <td style="text-align: left;">Описание проекта 5</td>
-      <td style="text-align: right;">Методы проекта 5</td>
-      <td style="text-align: right;"><a href="#">Ссылка на проект 5</a></td>
-      <td style="text-align: right;">Платформы и языки проекта 5</td>
-    </tr>
   </tbody>
 </table>
